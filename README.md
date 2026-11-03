@@ -1,33 +1,74 @@
-# 💫 About Me:
-Hi, I'm Mitash <br><br>I'm a Computer Science student interested in building real-world projects and learning how things work under the hood.<br><br>Currently learning:<br>- Flask & backend development<br>- Git & GitHub workflows<br>- Basics of machine learning<br><br>Projects:<br>- Building my own search engine<br>- Flask-based ML dashboard<br><br>Skills:<br>Python | HTML | CSS | Git | <br><br>Goal:<br>To build practical AI tools and understand systems like search engines and recommendation models.<br><br>Always learning and improving.
+# 👋 Hi, I'm Mitash Sharma
 
+### BCA Artificial Intelligence & Data Science Student | Python Developer | Aspiring AI & Data Science Professional
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mitash Sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmamitash23@gmail.com) 
+I'm a Computer Science student passionate about building practical applications, exploring artificial intelligence, and understanding how software systems work under the hood.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mitashsharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mitashsharma&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mitashsharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I enjoy turning ideas into working projects and continuously improving my problem-solving and development skills.
+
+## 💫 About Me
+
+- 🎓 Pursuing BCA in Artificial Intelligence & Data Science at GEHU, Dehradun.
+- 💻 Interested in Python development, Machine Learning, and Data Science.
+- 🔭 Working on AI-powered applications and a personal search engine.
+- 🌱 Exploring backend development, APIs, search algorithms, and recommendation systems.
+- 🎯 Goal: Build useful AI tools and scalable software applications.
+- 🤝 Interested in collaborating on Python, AI, and open-source projects.
+
+## 🚀 Featured Projects
+
+- **AI Data Visualizer** – An application for automated data analysis, visualization, and machine learning.
+- **Gesture & Voice Control System** – A hands-free computer interaction system using computer vision and voice commands.
+- **Search Engine** – Exploring search algorithms, indexing, and information retrieval.
+- **ML Applications** – Building practical machine learning projects and predictive systems.
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Web Development & Backend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Data Science & Machine Learning**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mitashsharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitashsharma/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mitashsharma.github.io/MitashSharma_Portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmamitash23@gmail.com)
+
+## 📊 GitHub Statistics
+
+![](https://github-readme-stats.shion.dev/api?username=mitashsharma&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=mitashsharma&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mitashsharma&theme=dark&hide_border=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=mitashsharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://komarev.com/ghpvc/?username=mitashsharma&label=Profile%20Views&color=0e75b6&style=flat)
 
-<!--
-**mitashsharma/mitashsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *Always learning, building, and exploring new technologies.*
